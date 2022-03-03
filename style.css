@@ -1,0 +1,9 @@
+/* FOR MANAS */
+/* FOR PAGE W RED BACKGROUND */
+.btn-danger {
+    background-color: orange;
+}
+
+.btn-danger:hover {
+    background-color: black;
+}
